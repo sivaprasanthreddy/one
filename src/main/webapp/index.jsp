@@ -9,6 +9,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY integrated tomcat</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">hi</h1>
+	h1 style="color: green; font-size: 40px;" align="center">hey am integrated tomcat</h1>
 	
 	
 	
